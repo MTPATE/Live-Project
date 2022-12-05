@@ -8,4 +8,4 @@ Using a SQL injection attack to gain administrative access.
 ![image](https://user-images.githubusercontent.com/105807900/205690440-df90f95a-3387-4012-9137-c3ca226fdf16.png)
 
 Sample Incident Report submission.
-https://github.com/MTPATE/Live-Project/blob/main/Live%20Project%20images/Incident%20report%209032%20.jpg
+![image](https://user-images.githubusercontent.com/105807900/205697397-512d952b-c959-431f-9582-1c846f6b162d.png)
