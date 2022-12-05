@@ -7,3 +7,5 @@ During my time with The Tech Academy I worked on a 2 week sprint live project fo
 Using a SQL injection attack to gain administrative access.
 ![image](https://user-images.githubusercontent.com/105807900/205690440-df90f95a-3387-4012-9137-c3ca226fdf16.png)
 
+Sample Incident Repot submission.
+https://github.com/MTPATE/Live-Project/blob/main/Live%20Project%20images/INCIDENT%20REPORT_%20MP-9032-Offensive_%20Access%20Secured%20Documents.pdf
